@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/www.dorianjimenez.com/static/css/main.073c9b0a.css",
-    "main.js": "/www.dorianjimenez.com/static/js/main.e3911a5d.js",
+    "main.js": "/www.dorianjimenez.com/static/js/main.659e7598.js",
     "static/js/787.f10ef391.chunk.js": "/www.dorianjimenez.com/static/js/787.f10ef391.chunk.js",
     "static/media/logo.svg": "/www.dorianjimenez.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/www.dorianjimenez.com/index.html",
     "main.073c9b0a.css.map": "/www.dorianjimenez.com/static/css/main.073c9b0a.css.map",
-    "main.e3911a5d.js.map": "/www.dorianjimenez.com/static/js/main.e3911a5d.js.map",
+    "main.659e7598.js.map": "/www.dorianjimenez.com/static/js/main.659e7598.js.map",
     "787.f10ef391.chunk.js.map": "/www.dorianjimenez.com/static/js/787.f10ef391.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e3911a5d.js"
+    "static/js/main.659e7598.js"
   ]
 }
