@@ -1,5 +1,5 @@
 # dorianjimenez.github.io
-my website
+Dorian Jimenez's website
 
 
 # Getting Started with Create React App
