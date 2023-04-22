@@ -1,14 +1,16 @@
 # dorianjimenez.github.io
-Dorian Jimenez's website
 
+### www.dorianjimenez.com
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dorian Jimenez Portfolio Website
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run deploy`
+
+Deploys the app to `www.dorianjimenez.com`
 
 ### `npm start`
 
